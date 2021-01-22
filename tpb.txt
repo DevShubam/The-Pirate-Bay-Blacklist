@@ -1,0 +1,29 @@
+! Title: Blockd - The Pirate Bay 
+! Description: Restricts Access to the Pirate Bay, made for uBlock Origin and AdGuard
+! Entries: 
+! Version: 2021.01.22
+! Maintainer: Shub [Twitter: @Shub16_]
+!----------------------------------------
+! LIST STARTS BELOW
+!----------------------------------------
+||thepiratebay.org^
+||piratebayproxy.info^
+||thepiratebay0.org^
+||thehiddenbay.com^
+||thepiratebay.zone^
+||tpb.party^
+||pirateproxy.live^
+||thepiratebay.party^
+||piratebay.party^
+||thepiratebay.us.com^
+||thepiratbays.org^
+||thepiratebays.com.se^
+||thepirate-bay.org^
+||thepiratesbay.com^
+||thepiratebays3.net^
+||thepiratebay5^
+||pirate-bay-proxy.org^
+||thepirate-bay3.org^
+||thepiratebay.app^
+||thepiratebay.cx^
+||piratebay-proxies.com^
